@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/drawable/bottom_sheet_dialog_shape.xml" value="0.267" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.265" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/drawable/rounded_top_shape.xml" value="0.267" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/drawable/searchbar_diagram.xml" value="0.267" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/font/fonts.xml" value="0.37604166666666666" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/activity_category.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/activity_main.xml" value="0.3141891891891892" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/activity_meal.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/category_item_sample.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/fragment_categories.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/fragment_favourites.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/fragment_home.xml" value="0.27927927927927926" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/fragment_meal_bottom_sheet.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/fragment_seach.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/meal_item_cateogry_sample.xml" value="0.3416666666666667" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/layout/popular_item.xml" value="0.346875" />
+        <entry key="..\:/Phoneix CV/FoodCreation/app/src/main/res/menu/btm_menu.xml" value="0.346875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
